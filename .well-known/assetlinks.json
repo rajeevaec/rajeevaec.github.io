@@ -1,0 +1,11 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.rubaru.dapp",
+        "sha256_cert_fingerprints":
+          ["8E:55:32:18:76:B3:67:CC:BF:4E:13:A0:1E:64:AD:86:63:1A:06:75:23:AF:B3:38:64:F5:E2:4A:D1:DB:4E:36"]
+      }
+    }
+]
