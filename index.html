@@ -571,6 +571,13 @@
 
   <!-- Template Main JS File -->
   <script src="js/main.js"></script>
+  
+<script>
+    console.log("redirect script called")
+    if (window.location.pathname !== '/') {
+        window.location.href = '/';
+    }
+</script>
 
 </body>
 
